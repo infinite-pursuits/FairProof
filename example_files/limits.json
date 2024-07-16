@@ -1,0 +1,10 @@
+{
+  "facetcheck_decision":1000,
+  "facetcheck_normal": 1000,
+  "pointonfacetcheck_decision": 1000,
+  "pointonfacetcheck_normal":1000,
+  "projection_normal_init":1000,
+  "projection_normal_other":1000,
+  "projection_decision_init":1000,
+  "projection_decision_other":1000
+} //the numeric values is the rounding error that can be tolerated for the scaled inputs. These values change based on the model and can be different for each key.
